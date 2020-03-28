@@ -1,0 +1,10 @@
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.deps.json
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.json
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.dev.json
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csprojAssemblyReference.cache
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfoInputs.cache
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfo.cs
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.dll
+D:\Estudos\Arquitetura de Software - Pires\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.pdb
